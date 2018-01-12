@@ -1,2 +1,6 @@
-# Project-1-Intro-to-Stastics
-Project -1 Introduction to Statistics
+# About
+* This repository contains project work for Udacity's Data Analyst Nanodegree from the May, 2017
+# Project
+* Test a Perceptual Phenomenon
+# Course
+* Project -1 Introduction to Statistics
