@@ -1,7 +1,10 @@
 # About
-* This repository contains project work for Udacity's Data Analyst Nanodegree from the May, 2017
+* This repository contains project work for Udacity's Data Analyst Nanodegree from the May, 2017.T 
 # Course
 * Introduction to Statistics
 # Project
-* Test a Perceptual Phenomenon
+* Test a Perceptual Phenomenon. On this project it specifies in details for the statistic s course.
+1)	Question response correctly identifies the independent and dependent variables in the experiment.
+   •	Independent Variable is the word condition (word congruency); either being congruent or incongruent. Its strength (measured in pounds).
+   •	Dependent Variable is the amount of time it takes to name, out loud the color of the links in which the words are displayed. Its spend time (measured in seconds).
 
