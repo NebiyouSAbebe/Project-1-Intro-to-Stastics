@@ -5,16 +5,19 @@
 * Introduction to Statistics
 
 # Project
-* Test a Perceptual Phenomenon. On this project it specifies in details for the statistics course.
-
+* Test a Perceptual Phenomenon. 
+  
+                                 Project Specification
+            
 1) Question response correctly identifies the independent and dependent variables in the experiment.
    •	Independent Variable is the word condition (word congruency); either being congruent or incongruent. 
       Its strength (measured in pounds).
    •	Dependent Variable is the amount of time it takes to name, out loud the color of the links in which the words are displayed. 
       Its spend time (measured in seconds).
+      
 2)	A) Null and alternative hypotheses are clearly stated in words and mathematically. Symbols in the mathematical statement are defined.
-   •	H0: There would be a lower mean time for the incongruent tests than the congruent tests or no noticeable difference in time duration 
-      between the congruent and incongruent tests 
+   •	H0: There would be a lower mean time for the incongruent tests than the congruent tests or no noticeable difference in time 
+      duration between the congruent and incongruent tests 
    •	HA: There would be a noticeable increase in time duration between the congruent and incongruent tests. The experiment should be 
       a single-tailed type scenario as there the question does mention “...does incongruence increase response times” as well as the 
       incongruent times were predominantly larger than the congruent times.
@@ -30,11 +33,14 @@
       represented as: To meet this specification I need a clear definition of the null hypothesis, which must states that there will be 
       no change in the means or as the example bellow: 
       H0= µc = µI
-   b) A statistical test is proposed which will distinguish the proposed hypotheses.     
-      Any assumptions made by the statistical test are addressed.
+      
+   b) A statistical test is proposed which will distinguish the proposed hypotheses. Any assumptions made by the statistical test 
+      are addressed.
       •	Dependent: I chose to go the dependent t-test route as even though we do two tests (congruent and incongruent) it is 
          with the same group of people that was tested on the congruent words then tested on the incongruent words.
-      •  Paired: I chose to go the paired t-test because the participants measured at two time point (congruent and incongruent word sets).
+      •  Paired: I chose to go the paired t-test because the participants measured at two time point (congruent and incongruent 
+         word sets).
+         
    3)	Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one 
       measure of variability.
       Central Tendency: Going into the data set of the Stroop experiment determining.
@@ -87,7 +93,8 @@
          which is consistent with the sample statistics generated earlier. Also, the distribution of the sample data from the 
          incongruent group is likely to be positively skewed due to two outliners.
       
-      5) A statistical test has been correctly performed and reported, including test statistic, p-value, and test result. The test results are interpreted in terms of the experimental task performed
+      5) A statistical test has been correctly performed and reported, including test statistic, p-value, and test result. 
+         The test results are interpreted in terms of the experimental task performed
          * We got from question # 3   𝒙 Mean c = 14.05   𝒙 Mean i = 22.02
            Then we can calculate a point of estimate by using 𝒙 Mean c  --  𝒙 Mean i 
                                            𝒙 Mean c  ---   𝒙 Mean i
